@@ -1,5 +1,9 @@
 body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 150%;
-  background-color: yellow;
+  background-color: rgb(211, 151, 235);
+}
+
+li{display: inline-block;
+  margin: 50%px 50%px;
 }
